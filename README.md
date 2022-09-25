@@ -19,5 +19,5 @@ Linux için:\
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğiniz bir konu açınız.
 
-## License\
+## License
 [MIT](https://opensource.org/licenses/MIT)
